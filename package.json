@@ -2,7 +2,10 @@
   "name": "donation_be",
   "version": "0.0.1",
   "description": "",
-  "author": "",
+  "author": {
+    "name": "smoothie",
+    "email": "mjnhdi35@gmail.com"
+  },
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
